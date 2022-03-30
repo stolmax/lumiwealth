@@ -4,5 +4,5 @@ module.exports = function(deployer) {
  deployer.deploy(ERC721PresetMinterPauserAutoId,
    "Hello NFT",
    "HENFT",
-"https://my-json-server.typicode.com/stolmax/lumiwealth"
+    "https://my-json-server.typicode.com/stolmax/lumiwealth"
  )};
